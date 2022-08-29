@@ -80,3 +80,7 @@ Blockchain, Bitcoin, Criptomoneda, Ethereum, Contrato Inteligente, Aplicación D
 - Apéndice B - Glosario de Términos
 - Apéndice C - Índice de figuras
 - Apéndice D - Otros recursos
+
+___
+## Enlace a la investigación:
+[Aspectos generales sobre la adopción de la tecnología Blockchain en MiPyMes mexicanas](https://github.com/GerardoCatano/Investigacion/blob/main/AdopcionBlockchainMipymesMexicanas_Feb2022.pdf)

@@ -91,6 +91,5 @@ ___
 Si consideras que la información presentada en esta investigación fue útil y deseas poner en práctica lo aprendido, considera realizar un donativo en bitcoin (BTC) a través del siguiente QR/dirección:
 
 ![QR y dirección BTC para donativos.](https://raw.githubusercontent.com/GerardoCatano/InvestigacionBlockchain/main/qr.png "QR y dirección BTC para donativos")
-*QR y dirección BTC para donativos.*
 
 Esta tiene por objetivo recolectar fondos que serán transferidos a asociaciones civiles dedicadas al bienestar animal en mi localidad. Gracias de antemano.
